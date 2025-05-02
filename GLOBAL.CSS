@@ -1,0 +1,1264 @@
+.website {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    background-color: #ffffff;
+  }
+  
+  .website .hero-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .website .navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 32px 80px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .website .div {
+    display: inline-flex;
+    align-items: center;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .stethoscope {
+    position: relative;
+    width: 32px;
+    height: 32px;
+  }
+  
+  .website .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #2f80ed;
+    font-size: 24px;
+    letter-spacing: -0.72px;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .website .button {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 198px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 64px;
+    position: relative;
+    background-color: #2f80ed;
+    border-radius: 99px;
+  }
+  
+  .website .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: -0.36px;
+    line-height: 32.4px;
+    white-space: nowrap;
+  }
+  
+  .website .navbar-2 {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 48px;
+    position: absolute;
+    top: 44px;
+    left: 476px;
+  }
+  
+  .website .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #2f80ed;
+    font-size: 20px;
+    letter-spacing: -0.40px;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .website .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7f7f7f;
+    font-size: 20px;
+    letter-spacing: -0.40px;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .website .hero-section-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px 60px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .website .div-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 16px;
+    padding: 10px 24px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #f2f7ff;
+    border-radius: 99px;
+  }
+  
+  .website .img {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .website .content {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 64px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .div-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .connecting-you-to {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 80px;
+    letter-spacing: -2.40px;
+    line-height: 120px;
+  }
+  
+  .website .span {
+    font-weight: 500;
+    color: #111111;
+    letter-spacing: -1.92px;
+  }
+  
+  .website .text-wrapper-5 {
+    font-family: "Cambon-MediumItalic", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #2f80ed;
+    letter-spacing: -1.92px;
+  }
+  
+  .website .text-wrapper-6 {
+    font-family: "Inter-MediumItalic", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #111111;
+    letter-spacing: -1.92px;
+  }
+  
+  .website .we-re-here-to-link {
+    position: relative;
+    align-self: stretch;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7f7f7f;
+    font-size: 24px;
+    letter-spacing: -0.48px;
+    line-height: 43.2px;
+  }
+  
+  .website .buttons {
+    display: inline-flex;
+    gap: 24px;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .div-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 16px 48px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #2f80ed;
+    border-radius: 99px;
+  }
+  
+  .website .text-wrapper-7 {
+    color: #ffffff;
+    line-height: 36.0px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: -0.40px;
+    white-space: nowrap;
+  }
+  
+  .website .learn-more {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 16px 48px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 100px;
+    border: 1px solid;
+    border-color: #2f80ed;
+  }
+  
+  .website .text-wrapper-8 {
+    color: #2f80ed;
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: -0.40px;
+    line-height: 36.0px;
+    white-space: nowrap;
+  }
+  
+  .website .hero-image {
+    position: relative;
+    width: 646px;
+    height: 608px;
+  }
+  
+  .website .overlap-group {
+    position: relative;
+    height: 608px;
+  }
+  
+  .website .mask-group {
+    position: absolute;
+    width: 550px;
+    height: 500px;
+    top: 37px;
+    left: 38px;
+  }
+  
+  .website .value {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    padding: 16px;
+    position: absolute;
+    top: 473px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #ecf3fd;
+  }
+  
+  .website .users {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .ellipse {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  
+  .website .ellipse-2 {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    margin-left: -20px;
+    object-fit: cover;
+  }
+  
+  .website .text-wrapper-9 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 40px;
+    letter-spacing: -0.80px;
+    line-height: 60px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    color: #2f80ed;
+    white-space: nowrap;
+  }
+  
+  .website .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #7f7f7f;
+    font-size: 18px;
+    letter-spacing: -0.36px;
+    line-height: 27px;
+    white-space: nowrap;
+  }
+  
+  .website .value-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 16px;
+    position: absolute;
+    top: 0;
+    left: 351px;
+    background-color: #ffffff;
+    border-radius: 24px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #ecf3fd;
+  }
+  
+  .website .element {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #2f80ed;
+    font-size: 48px;
+    letter-spacing: -0.96px;
+    line-height: 72px;
+    white-space: nowrap;
+  }
+  
+  .website .hours-of-patient {
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: -0.36px;
+    line-height: 27px;
+    position: relative;
+    width: fit-content;
+    color: #7f7f7f;
+  }
+  
+  .website .div-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 120px 60px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    overflow: hidden;
+  }
+  
+  .website .div-5 {
+    display: flex;
+    width: 1320px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .p {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 60px;
+    letter-spacing: -1.20px;
+    line-height: 108.0px;
+    white-space: nowrap;
+  }
+  
+  .website .text-wrapper-11 {
+    font-weight: 500;
+    color: #111111;
+    letter-spacing: -0.72px;
+  }
+  
+  .website .text-wrapper-12 {
+    font-family: "Cambon-MediumItalic", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #2f80ed;
+    letter-spacing: -0.72px;
+  }
+  
+  .website .text-wrapper-13 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #2f80ed;
+    font-size: 24px;
+    letter-spacing: -0.48px;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .website .div-6 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -448.00px;
+  }
+  
+  .website .card {
+    display: flex;
+    flex-direction: column;
+    width: 424px;
+    align-items: flex-start;
+    gap: 24px;
+    padding: 48px 24px;
+    position: relative;
+    background-color: #f7f7f7;
+    border-radius: 20px;
+  }
+  
+  .website .icon-badge {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 8px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #e6e6e6;
+    border-radius: 99px;
+  }
+  
+  .website .img-2 {
+    position: relative;
+    width: 40px;
+    height: 40px;
+  }
+  
+  .website .div-7 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    align-self: stretch;
+    width: 100%;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .text-wrapper-14 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #111111;
+    font-size: 32px;
+    letter-spacing: -0.64px;
+    line-height: 48px;
+    white-space: nowrap;
+  }
+  
+  .website .text-wrapper-15 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7f7f7f;
+    font-size: 20px;
+    letter-spacing: -0.40px;
+    line-height: 36.0px;
+  }
+  
+  .website .link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .baby {
+    position: relative;
+    width: 4px;
+    height: 40px;
+  }
+  
+  .website .arrow-right {
+    margin-top: -1433.00px;
+    margin-left: -1251.00px;
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .website .img-3 {
+    position: relative;
+    width: 56px;
+    height: 56px;
+  }
+  
+  .website .slider {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 16px;
+    position: absolute;
+    top: 23px;
+    left: 629px;
+  }
+  
+  .website .ellipse-3 {
+    position: relative;
+    width: 10px;
+    height: 10px;
+    background-color: #2f80ed;
+    border-radius: 5px;
+  }
+  
+  .website .ellipse-4 {
+    position: relative;
+    width: 10px;
+    height: 10px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .website .about-us-section {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 120px 60px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .website .image {
+    position: relative;
+    align-self: stretch;
+    width: 621px;
+  }
+  
+  .website .content-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .website .content-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .website .we-re {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #111111;
+    font-size: 32px;
+    letter-spacing: -0.64px;
+    line-height: 48px;
+  }
+  
+  .website .value-3 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .website .doctors {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .text-wrapper-16 {
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 64px;
+    letter-spacing: -1.28px;
+    line-height: 96px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    color: #2f80ed;
+    white-space: nowrap;
+  }
+  
+  .website .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7f7f7f;
+    font-size: 20px;
+    letter-spacing: -0.40px;
+    line-height: 36.0px;
+    white-space: nowrap;
+  }
+  
+  .website .consultation {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 4px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .text-wrapper-18 {
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: -0.40px;
+    line-height: 36.0px;
+    white-space: nowrap;
+    position: relative;
+    width: fit-content;
+    color: #7f7f7f;
+  }
+  
+  .website .features-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 120px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .website .content-4 {
+    display: flex;
+    width: 1440px;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 0px 60px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .content-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    flex-grow: 1;
+  }
+  
+  .website .online-booking {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 40px 24px;
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    width: 100%;
+    flex-grow: 1;
+    background-color: #f5f5f5;
+    border-radius: 24px;
+    overflow: hidden;
+  }
+  
+  .website .div-8 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .tittle {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .text-wrapper-19 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7f7f7f;
+    font-size: 18px;
+    letter-spacing: -0.36px;
+    line-height: 32.4px;
+  }
+  
+  .website .mobile {
+    position: absolute;
+    width: 320px;
+    height: 331px;
+    top: 40px;
+    left: 444px;
+    object-fit: cover;
+  }
+  
+  .website .content-6 {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    width: 100%;
+    flex-grow: 1;
+  }
+  
+  .website .div-9 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    padding: 40px 24px;
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    flex-grow: 1;
+    background-color: #f5f5f5;
+    border-radius: 20px;
+  }
+  
+  .website .virtual-meetings {
+    display: flex;
+    flex-direction: column;
+    width: 524px;
+    height: 750px;
+    align-items: center;
+    gap: 64px;
+    padding: 40px 24px;
+    position: relative;
+    background-color: #f5f5f5;
+    border-radius: 24px;
+    overflow: hidden;
+  }
+  
+  .website .content-7 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .website .iphone-pro {
+    position: absolute;
+    width: 376px;
+    height: 382px;
+    top: 368px;
+    left: 74px;
+    object-fit: cover;
+  }
+  
+  .website .david {
+    display: flex;
+    width: 872px;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .website .img-wrapper {
+    position: relative;
+    width: 318px;
+    height: 368px;
+    background-color: #2f80ed;
+    border-radius: 24px;
+    overflow: hidden;
+  }
+  
+  .website .unsplash {
+    position: absolute;
+    width: 318px;
+    height: 365px;
+    top: 3px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .website .content-8 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 40px 24px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    background-color: #f5f5f5;
+    border-radius: 20px;
+  }
+  
+  .website .i-ve-been-using-this {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 400;
+    color: #111111;
+    font-size: 24px;
+    letter-spacing: -0.48px;
+    line-height: 43.2px;
+  }
+  
+  .website .text-wrapper-20 {
+    font-family: "Inter-MediumItalic", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    letter-spacing: -0.12px;
+  }
+  
+  .website .text-wrapper-21 {
+    font-weight: 500;
+    letter-spacing: -0.12px;
+  }
+  
+  .website .user {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .text-wrapper-22 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #2f80ed;
+    font-size: 24px;
+    letter-spacing: -0.48px;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .website .text-wrapper-23 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7f7f7f;
+    font-size: 18px;
+    letter-spacing: -0.36px;
+    line-height: 32.4px;
+    white-space: nowrap;
+  }
+  
+  .website .ester {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .unsplash-KI {
+    position: absolute;
+    width: 318px;
+    height: 368px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .website .content-9 {
+    display: flex;
+    flex-direction: column;
+    width: 546px;
+    height: 368px;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 40px 24px;
+    position: relative;
+    background-color: #f5f5f5;
+    border-radius: 20px;
+  }
+  
+  .website .managing {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #111111;
+    font-size: 24px;
+    letter-spacing: -0.48px;
+    line-height: 43.2px;
+  }
+  
+  .website .article-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 120px 60px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .website .content-10 {
+    display: flex;
+    width: 1380px;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -60.00px;
+    overflow: hidden;
+  }
+  
+  .website .cover {
+    width: 424px;
+    position: relative;
+    height: 300px;
+  }
+  
+  .website .top {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .website .text-wrapper-24 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #2f80ed;
+    font-size: 18px;
+    letter-spacing: -0.36px;
+    line-height: 27px;
+    white-space: nowrap;
+  }
+  
+  .website .text-wrapper-25 {
+    position: relative;
+    flex: 1;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #7f7f7f;
+    font-size: 18px;
+    letter-spacing: -0.36px;
+    line-height: 32.4px;
+  }
+  
+  .website .content-11 {
+    display: flex;
+    flex-direction: column;
+    width: 424px;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .text-wrapper-26 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #111111;
+    font-size: 24px;
+    letter-spacing: -0.72px;
+    line-height: 36px;
+  }
+  
+  .website .cover-2 {
+    width: 36px;
+    position: relative;
+    height: 300px;
+  }
+  
+  .website .arrow-right-2 {
+    margin-top: -5123.00px;
+    margin-left: -1296.00px;
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .website .section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .website .mask-group-2 {
+    position: relative;
+    width: 1440px;
+    height: 500px;
+  }
+  
+  .website .content-12 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 48px;
+    position: absolute;
+    top: 95px;
+    left: 394px;
+  }
+  
+  .website .start-your-health {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: -1.60px;
+    line-height: normal;
+  }
+  
+  .website .frame {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 16px 48px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 99px;
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .website .footer-section {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 100px 60px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    background-color: #1a1a1a;
+  }
+  
+  .website .overlap-group-2 {
+    position: relative;
+    width: 28px;
+    height: 29px;
+    top: 3px;
+    left: 4px;
+  }
+  
+  .website .vector {
+    position: absolute;
+    width: 25px;
+    height: 26px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website .frame-2 {
+    position: absolute;
+    width: 12px;
+    height: 18px;
+    top: 11px;
+    left: 16px;
+  }
+  
+  .website .text-wrapper-27 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #2f80ed;
+    font-size: 24px;
+    letter-spacing: -0.96px;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .website .text-wrapper-28 {
+    position: relative;
+    width: 424px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #cccccc;
+    font-size: 16px;
+    letter-spacing: -0.32px;
+    line-height: 28.8px;
+  }
+  
+  .website .social-media {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .img-wrapper-2 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 8px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #2f80ed;
+    border-radius: 99px;
+  }
+  
+  .website .links {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 80px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .website .text-wrapper-29 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: -0.40px;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .website .text-wrapper-30 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #cccccc;
+    font-size: 16px;
+    letter-spacing: -0.32px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .website .text-wrapper-31 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #cccccc;
+    font-size: 16px;
+    letter-spacing: -0.32px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
